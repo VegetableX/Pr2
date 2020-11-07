@@ -36,7 +36,7 @@
 
 ![Обои](https://images.wallpaperscraft.ru/image/fon_pyatna_svet_81400_3840x2400.jpg)
 
-
+![Картинка с тыквой](picture1.jpg)
 
 ИзМЕНЕНИя!!!!!!!!!!!!
 ```Java
